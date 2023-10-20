@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.paint.*?>
+<?import javafx.scene.shape.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" prefHeight="652.0" prefWidth="908.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="pociagi2.pociaginauka2.HelloController">
+   <children>
+      <Pane prefHeight="587.0" prefWidth="908.0">
+         <children>
+            <Group fx:id="Tory21111" layoutX="490.0" layoutY="245.0" rotate="300.0">
+               <children>
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="11.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="39.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="66.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="94.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="119.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="143.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="168.0" layoutX="4.0" stroke="BLACK" strokeType="INSIDE" width="7.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="168.0" layoutX="51.0" stroke="BLACK" strokeType="INSIDE" width="7.0" />
+               </children>
+            </Group>
+            <Group fx:id="Tory2111" layoutX="269.0" layoutY="238.0" rotate="60.0">
+               <children>
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="11.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="39.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="66.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="94.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="119.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="143.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="168.0" layoutX="4.0" stroke="BLACK" strokeType="INSIDE" width="7.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="168.0" layoutX="51.0" stroke="BLACK" strokeType="INSIDE" width="7.0" />
+               </children>
+            </Group>
+            <Group fx:id="Tory211" layoutX="241.0" layoutY="99.0" rotate="120.0">
+               <children>
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="11.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="39.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="66.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="94.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="119.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="143.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="168.0" layoutX="4.0" stroke="BLACK" strokeType="INSIDE" width="7.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="168.0" layoutX="51.0" stroke="BLACK" strokeType="INSIDE" width="7.0" />
+               </children>
+            </Group>
+            <Group fx:id="Tory21" layoutX="370.0" layoutY="42.0">
+               <children>
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="11.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="39.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="66.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="94.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="119.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="143.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="168.0" layoutX="4.0" stroke="BLACK" strokeType="INSIDE" width="7.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="168.0" layoutX="51.0" stroke="BLACK" strokeType="INSIDE" width="7.0" />
+                  <Group fx:id="Tory21111113">
+                     <children>
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="241.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutX="1.0" layoutY="215.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="191.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="167.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="11.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="39.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="66.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="94.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="119.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="143.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="261.0" layoutX="4.0" stroke="BLACK" strokeType="INSIDE" width="6.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="264.0" layoutX="51.0" stroke="BLACK" strokeType="INSIDE" width="7.0" />
+                     </children>
+                  </Group>
+               </children>
+            </Group>
+            <Group fx:id="Tory2" layoutX="500.0" layoutY="86.0" rotate="240.0">
+               <children>
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="11.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="39.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="66.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="94.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="119.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="143.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="168.0" layoutX="4.0" stroke="BLACK" strokeType="INSIDE" width="7.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="168.0" layoutX="51.0" stroke="BLACK" strokeType="INSIDE" width="7.0" />
+               </children>
+            </Group>
+            <HBox layoutX="709.0" layoutY="459.0" prefHeight="44.0" prefWidth="200.0">
+               <children>
+                  <Label fx:id="labelname" />
+               </children>
+            </HBox>
+            <TextField fx:id="textField" layoutX="704.0" layoutY="424.0" prefHeight="25.0" prefWidth="210.0" />
+            <Button fx:id="przycisk1" layoutX="777.0" layoutY="509.0" mnemonicParsing="false" onAction="#zwolnij" onMouseEntered="#onActionEntered" text="przycisk2" />
+            <Label layoutX="718.0" layoutY="472.0" text="twoj wiek to" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff1fe9" height="131.0" layoutX="119.0" layoutY="326.0" rotate="60.0" stroke="BLACK" strokeType="INSIDE" width="118.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff1fe9" height="131.0" layoutX="111.0" layoutY="61.0" rotate="120.0" stroke="BLACK" strokeType="INSIDE" width="118.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff1fe9" height="131.0" layoutX="345.0" layoutY="-65.0" stroke="BLACK" strokeType="INSIDE" width="118.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff1fe9" height="131.0" layoutX="559.0" layoutY="61.0" rotate="240.0" stroke="BLACK" strokeType="INSIDE" width="118.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#ff1fe9" height="131.0" layoutX="550.0" layoutY="314.0" rotate="300.0" stroke="BLACK" strokeType="INSIDE" width="118.0" />
+            <Rectangle fx:id="pociag1wyjazd" arcHeight="5.0" arcWidth="5.0" fill="#1fff33" height="25.0" layoutX="554.0" layoutY="343.0" rotate="300.0" stroke="BLACK" strokeType="INSIDE" width="23.0" />
+            <Rectangle fx:id="pociag2wyjazd" arcHeight="5.0" arcWidth="5.0" fill="#1fff33" height="25.0" layoutX="564.0" layoutY="130.0" rotate="240.0" stroke="BLACK" strokeType="INSIDE" width="23.0" />
+            <Rectangle fx:id="pociag3wyjazd" arcHeight="5.0" arcWidth="5.0" fill="#1fff33" height="25.0" layoutX="392.0" layoutY="30.0" stroke="BLACK" strokeType="INSIDE" width="23.0" />
+            <Rectangle fx:id="pociag4wyjazd" arcHeight="5.0" arcWidth="5.0" fill="#1fff33" height="25.0" layoutX="198.0" layoutY="130.0" rotate="120.0" stroke="BLACK" strokeType="INSIDE" width="23.0" />
+            <Rectangle fx:id="pociag1wjazd" arcHeight="5.0" arcWidth="5.0" fill="#1fff33" height="25.0" layoutX="452.0" layoutY="281.0" rotate="300.0" stroke="BLACK" strokeType="INSIDE" width="23.0" />
+            <Group fx:id="Tory211111" layoutX="330.0" layoutY="375.0">
+               <children>
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="11.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="39.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="66.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="94.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="119.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="143.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="168.0" layoutX="4.0" stroke="BLACK" strokeType="INSIDE" width="7.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="168.0" layoutX="51.0" stroke="BLACK" strokeType="INSIDE" width="7.0" />
+                  <Group fx:id="Tory21111111">
+                     <children>
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="241.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutX="1.0" layoutY="215.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="191.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="167.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="11.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="39.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="66.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="94.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="119.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" disable="true" fill="#9a650a" height="17.0" layoutY="143.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="261.0" layoutX="4.0" stroke="BLACK" strokeType="INSIDE" width="6.0" />
+                        <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="264.0" layoutX="51.0" stroke="BLACK" strokeType="INSIDE" width="7.0" />
+                     </children>
+                  </Group>
+               </children>
+            </Group>
+            <Group fx:id="Tory2111111" layoutX="399.0" layoutY="375.0">
+               <children>
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="241.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutX="1.0" layoutY="215.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="191.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="167.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="11.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="39.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="66.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="94.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="119.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="#9a650a" height="17.0" layoutY="143.0" stroke="BLACK" strokeType="INSIDE" width="64.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="261.0" layoutX="4.0" stroke="BLACK" strokeType="INSIDE" width="6.0" />
+                  <Rectangle arcHeight="5.0" arcWidth="5.0" fill="DODGERBLUE" height="264.0" layoutX="51.0" stroke="BLACK" strokeType="INSIDE" width="7.0" />
+               </children>
+            </Group>
+            <Rectangle fx:id="pociagbramawjazd" arcHeight="5.0" arcWidth="5.0" fill="#1fff33" height="25.0" layoutX="420.0" layoutY="626.0" stroke="BLACK" strokeType="INSIDE" width="23.0" />
+            <Rectangle fx:id="pociagbramawyjazd" arcHeight="5.0" arcWidth="5.0" fill="#1fff33" height="25.0" layoutX="350.0" layoutY="330.0" stroke="BLACK" strokeType="INSIDE" width="23.0" />
+            <Button fx:id="przycisk2" layoutX="783.0" layoutY="552.0" mnemonicParsing="false" onAction="#przyspiesz" text="Button" />
+            <Rectangle fx:id="pociag5wyjazd" arcHeight="5.0" arcWidth="5.0" fill="#1fff33" height="25.0" layoutX="201.0" layoutY="359.0" rotate="60.0" stroke="BLACK" strokeType="INSIDE" width="23.0" />
+            <Rectangle fx:id="pociag2wjazd" arcHeight="5.0" arcWidth="5.0" fill="#1fff33" height="25.0" layoutX="452.0" layoutY="198.0" rotate="240.0" stroke="BLACK" strokeType="INSIDE" width="23.0" />
+            <Rectangle fx:id="pociag3wjazd" arcHeight="5.0" arcWidth="5.0" fill="#1fff33" height="25.0" layoutX="393.0" layoutY="162.0" stroke="BLACK" strokeType="INSIDE" width="23.0" />
+            <Rectangle fx:id="pociag4wjazd" arcHeight="5.0" arcWidth="5.0" fill="#1fff33" height="25.0" layoutX="319.0" layoutY="198.0" rotate="120.0" stroke="BLACK" strokeType="INSIDE" width="23.0" />
+            <Rectangle fx:id="pociag5wjazd" arcHeight="5.0" arcWidth="5.0" fill="#1fff33" height="25.0" layoutX="319.0" layoutY="283.0" rotate="60.0" stroke="BLACK" strokeType="INSIDE" width="23.0" />
+            <Rectangle arcHeight="5.0" arcWidth="5.0" height="73.0" layoutX="321.0" layoutY="306.0" stroke="BLACK" strokeType="INSIDE" width="149.0">
+               <fill>
+                  <LinearGradient endX="1.0" endY="1.0">
+                     <stops>
+                        <Stop>
+                           <color>
+                              <Color />
+                           </color>
+                        </Stop>
+                        <Stop offset="1.0">
+                           <color>
+                              <Color red="1.0" green="1.0" blue="1.0" />
+                           </color>
+                        </Stop>
+                     </stops>
+                  </LinearGradient>
+               </fill>
+            </Rectangle>
+            <Circle layoutX="401.0" layoutY="255.0" radius="100.0" stroke="BLACK" strokeType="INSIDE">
+               <fill>
+                  <RadialGradient centerX="0.5" centerY="0.5" radius="0.5">
+                     <stops>
+                        <Stop>
+                           <color>
+                              <Color green="0.9100000262260437" blue="0.10859188437461853" />
+                           </color>
+                        </Stop>
+                        <Stop offset="1.0">
+                           <color>
+                              <Color red="0.44464027881622314" green="0.5350877046585083" blue="0.36002814769744873" />
+                           </color>
+                        </Stop>
+                     </stops>
+                  </RadialGradient>
+               </fill>
+            </Circle>
+         </children>
+      </Pane>
+   </children>
+</AnchorPane>
